@@ -1,0 +1,44 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: #a2ad7a;
+}
+
+h1 {
+  font-size: 36px;
+  margin-top: 6px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+}
+
+hr {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+  border: none;
+  border-radius: 10px;
+}
+
+.display {
+  background-color: rgba(255, 255, 255, 0.8);
+  max-width: 440px;
+  display: block;
+  margin: 0 auto;
+  padding: 20px 30px;
+  border-radius: 10px;
+  margin-top: 28px;
+}
+
+div {
+  text-align: center;
+  margin-top: 26px;
+}
